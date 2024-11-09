@@ -1,0 +1,11 @@
+- src/
+  - StaticArray.cpp
+  - DynamicArray.cpp
+  - StringOperations.cpp
+  - CharacterFrequency.cpp
+- tests/
+  - test_StaticArray.cpp
+  - test_DynamicArray.cpp
+  - test_StringOperations.cpp
+- README.md
+- report.pdf (for algorithm analysis)
